@@ -213,4 +213,4 @@ Earth Alerts is offered as a full, free version with all features and updates in
 Stay prepared and informed with Earth Alerts! Download now and take control of your weather monitoring needs.
 
 ---
-**Last updated:** 2026-09-25 21:56:42 UTC
+**Last updated:** 2026-09-26 00:16:00 UTC
